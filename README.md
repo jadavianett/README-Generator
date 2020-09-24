@@ -12,7 +12,6 @@ Once the prompts are answered, a markdown file should be created with the inform
 ![alt text](./assets/images/generatedreadme.png "Generated ReadMe")
 
 
-
 ## License
 MIT 
 

@@ -15,16 +15,16 @@ Description goes here
 * [Questions](#Questions)
 
 ## Installation
-Installation Instructions go here
+Installation info goes here
 
 ## Usage 
-Usage information goes here
+usage info goes here
 
 ## License
 MIT
 
 ## Contributing
-Contributor information goes here
+Contributor info goes here
 
 ## Testing
 Test information goes here
