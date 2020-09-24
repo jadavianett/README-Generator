@@ -27,9 +27,10 @@ inquirer
       name: "usage",
     },
     {
-      type: "input",
+      type: "list",
       message: "Which license would you like to add?",
       name: "license",
+      choices: ["MIT", "GNU", "ISC"],
     },
     {
       type: "input",
