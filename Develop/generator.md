@@ -1,10 +1,10 @@
 
   
-  # test
+  # Project Title
 
 
 ## Description
-test
+Description goes here
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -15,22 +15,22 @@ test
 * [Questions](#Questions)
 
 ## Installation
-test
+Installation Instructions go here
 
 ## Usage 
-test
+Usage information goes here
 
 ## License
-GNU
+MIT
 
 ## Contributing
-yes
+Contributor information goes here
 
 ## Testing
-yes
+Test information goes here
 
 ## Questions
-If you have any questions, please contact me at: jada.arnett@gmail.com
+If you have any questions, please contact me directly via email at: jada.arnett@gmail.com
 View my GitHub profile here: https://www.github.com/jadavianett
 
 

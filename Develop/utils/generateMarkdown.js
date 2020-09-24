@@ -32,7 +32,7 @@ ${data.contributing}
 ${data.test}
 
 ## Questions
-If you have any questions, please contact me at: ${data.email}
+If you have any questions, please contact me directly via email at: ${data.email}
 View my GitHub profile here: https://www.github.com/${data.username}
 
 
