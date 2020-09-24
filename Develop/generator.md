@@ -2,6 +2,8 @@
   
   # Project Title
 
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
+
 
 ## Description
 Description goes here
@@ -24,10 +26,10 @@ usage info goes here
 MIT
 
 ## Contributing
-Contributor info goes here
+contributor information goes here
 
 ## Testing
-Test information goes here
+test info goes here
 
 ## Questions
 If you have any questions, please contact me directly via email at: jada.arnett@gmail.com
