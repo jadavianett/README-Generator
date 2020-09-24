@@ -2,7 +2,6 @@
 function generateMarkdown(data) {
   return `
   
-  ## Title
   # ${data.title}
 
 
